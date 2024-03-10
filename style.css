@@ -1,0 +1,277 @@
+body{
+    background-color: rgb(176,234,205);
+    font-family: Plus Jakarta Sans,sans-serif;
+    margin-top: 13px;
+}
+.headcontainer{
+    display: flex;
+    justify-content: end;
+    margin-right: 72px;
+    margin-top: 50px;
+    
+
+    
+    
+    
+}
+
+
+.headcontainer .nav a{
+    text-decoration: none;
+    
+    font-size: 17px;
+    padding:  7px;
+    
+}
+
+
+
+.headcontainer nav button{
+    padding: 10px 15px;
+    border: none;
+    
+    
+}
+.headcontainer nav button a{
+    color: rgb(241,251,246);
+    border-radius: 60px;
+    
+    
+
+}
+.nav button a{
+    color: aliceblue;
+}
+.nav button{
+    
+    background-color: rgb(33,191,115);
+    
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.heroparents{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+
+}
+.herosection{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+    height: 700px;
+    border-radius: 7px;
+    padding: 30px;
+    
+    
+}
+.heroparents .joiningsection{
+    padding: 200px;
+   
+}
+
+.herosection .joiningsection h3{
+    color: rgb(196,199,206)   ;
+    font-size: 15   px;
+    font-weight: 100
+}
+.herosection .joiningsection input{
+    width: 461px;
+    height: 39px;
+    color: black;
+    border-radius: 10px ;
+    border-color:  rgb(33,191,115) !important;
+    border: 1px solid;
+
+}
+ 
+.herosection .joiningsection .passforget a{
+    text-decoration: none;
+    color: rgb(231, 82, 102); 
+    font-size: 11px;
+    font-weight: 600px;
+    margin-left: 378px;
+}
+
+.herosection .joiningsection .login a{
+    background-color: rgb(33,191,115);
+    text-decoration: none;
+    color: white;
+    padding: 13px 212px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.herosection .joiningsection .SIGNupsection p {
+     margin-left: 140px;
+     font-size: 17px;
+    
+}
+.herosection .joiningsection .SIGNupsection p a{
+    color: rgb(33,191,115) ;
+    text-decoration: none;
+    margin-left: 3px;
+}
+
+
+.herosection .heroing{
+    background-color: rgb(176,234,205);
+    border-radius: 10px;
+    margin-right: 180px;
+    
+    
+    
+}
+.herosection .heroing img{
+    width: 600px;
+    height: 400px;
+    align-items: center;
+    margin-top: 180px;
+}
+
+
+
+
+.foot{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    
+}
+
+
+.about h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(33,37,41);
+}
+.about p{
+    width: 320px;
+    color: rgb(80,101,95);
+}
+
+.sociallink{
+    color: black;
+    font-size: 30px;
+    
+}
+.sociallink i{
+    padding: 0px 5px;
+    
+}
+
+.Recommanded{
+    margin-left: 20px;
+    text-align: left !important;
+}
+.Recommanded h1{ 
+     font-size: 25px;
+    font-weight: 600;
+    color: rgb(33,37,41);
+    margin-left: 35px;
+
+}
+
+.Recommanded ul{
+    list-style: none;
+    text-align: left !important;
+   
+}
+.Recommanded  a{
+    text-decoration: none;
+    color: rgb(80,101,95);
+    font-size: 18px;
+}
+
+
+.legal{
+    margin-left: 20px;
+    text-align: left !important;
+
+}
+.legal h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(33,37,41);
+    margin-left: 35px;
+
+}
+
+.legal ul{
+    
+        list-style: none;
+        text-align: left !important;
+       
+    
+
+}
+
+.legal a{
+    text-decoration: none;
+    color: rgb(80,101,95);
+    font-size: 18px;
+}
+
+.sub{
+    margin-left: 50px;
+    text-align: left !important;
+}
+.sub h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(33,37,41);
+   
+
+
+}
+.sub {
+    width: 320px;
+    color: rgb(80,101,95);
+}
+.sub input{
+    width: 250px;
+    height: 30px;
+    font-size: 18px;
+}
+    
+.sub .mail i {
+    
+    width: 30px;
+    height: 30px;
+    color: white;
+    font-size: 22px;
+    
+    
+    
+    
+}
+
+
+.sub .place p{
+    margin-top: -25px;
+}
+
+.sub .place p i{
+    color: green;
+    margin-top: 30px;
+}
+
+.fotter{
+    display: flex;
+    justify-content: space-around;
+}
+
+.fotter h4{
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(90, 100, 112);
+
+}
+.fotter .logos img{
+    width: 80px;
+}
+
